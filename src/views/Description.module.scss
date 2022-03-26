@@ -1,0 +1,21 @@
+.description_container {
+    padding: 2%;
+    width: 350px;
+    input {
+        width: 200px;
+        border-right: 0;
+        border-top: .5px solid #999999;
+        border-left: .5px solid #999999;
+        border-bottom: .5px solid #999999;
+    }
+    button {
+        border: .5px solid #999999;
+        box-shadow: none;
+        background-color: #7CD5B9;
+    }
+    .organization_list_container {
+        img {
+            width: 30px;
+        }
+    }
+}

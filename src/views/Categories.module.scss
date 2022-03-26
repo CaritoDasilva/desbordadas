@@ -1,0 +1,37 @@
+.category_container {
+    padding: 2%;
+    .top_section {
+        border-bottom: .5px solid #999999;
+        .logo {
+            width: 500px;
+        } 
+        .title_container {
+            background-color: #F2C760;
+        }  
+        a {
+            color: #6E75A8;
+        }
+    }
+    .middle_section {
+        border-bottom: .5px solid #999999;
+        padding: 5% 2% 20%;
+        .theme_container {
+            .icon_container {
+                display: flex;
+                align-items: center;
+                img {
+                    width: 70px;
+                }
+            }
+
+        }
+    }
+    .bottom_section {
+        margin-top: 5%;
+        display: flex;
+        justify-content: space-between;
+        .desbordada_logo {
+            width: 250px
+        }
+    }
+}
